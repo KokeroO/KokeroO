@@ -29,4 +29,3 @@ Sou formado em Engenharia de Software, moro no Brasil, um entusiasta e ambicioso
 
 - Next.js
 - Full Backend
-![Snake animation](https://github.com/KokeroO/KokeroO/blob/output/github-contribution-grid-snake.svg)
