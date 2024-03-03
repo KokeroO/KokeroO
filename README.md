@@ -1,11 +1,11 @@
 ## Olá 👋 Me chamo Willian, mas utilizo o nick "KokeroO"!
 
-Sou formado em Engenharia de Software, moro no Brasil, um entusiasta e ambicioso em atingir um dia o desenvolvimento Full Stack. Meu foco sempre vai ser em fazer tudo com detalhe e perfeição.
+Formado em Engenharia de Software, um entusiasta e ambicioso em entregar a solução com a melhor abordagem de detalhes possíveis. Meu foco é em realizar a entrega com a melhor qualidade possível.
 
 ### Habilidade e Experiencias:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="auto" width="40">
@@ -22,10 +22,11 @@ Sou formado em Engenharia de Software, moro no Brasil, um entusiasta e ambicioso
 
 - DevOps
 - Docker
+- Kubernets
 - TypeScript
 - GraphQL
 
 ### 💡 Quero apreender/focar:
 
-- Next.js
-- Full Backend
+- GoLang
+- Apache Cassandra DB
