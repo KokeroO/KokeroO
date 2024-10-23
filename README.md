@@ -5,6 +5,7 @@ Formado em Engenharia de Software, um entusiasta e ambicioso em entregar a soluÃ
 ### Habilidade e Experiencias:
 
 <p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="auto" width="40">
@@ -15,18 +16,11 @@ Formado em Engenharia de Software, um entusiasta e ambicioso em entregar a soluÃ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" height="auto" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="auto" width="40">
   
 ### ğŸ“– Atualmente estou estudando/aperfeiÃ§oando:
 
-- DevOps
-- Docker
 - Kubernets
-- TypeScript
 - GraphQL
-
-### ğŸ’¡ Quero apreender/focar:
-
-- GoLang
-- Apache Cassandra DB
