@@ -21,9 +21,3 @@ Formado em Engenharia de Software, um entusiasta e ambicioso em entregar a solu�
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="auto" width="40">
-
-  
-### 📖 Atualmente estou estudando/aperfeiçoando:
-
-- Kubernets
-- GraphQL
