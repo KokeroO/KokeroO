@@ -33,8 +33,6 @@ Meu foco está sempre em entregar soluções robustas, escaláveis e bem documen
 - **Frameworks e Bibliotecas**: Fastify, Nest.js, Vue.js, Prisma, jQuery  
 - **Bancos de Dados**: PostgreSQL, MySQL  
 - **DevOps / Infraestrutura**: Docker, Apache, Proxmox, Amazon Web Services (AWS)  
-- **Monitoramento**: Conhecimento prático em Grafana e Prometheus  
-- **Versionamento**:  
 - **Outros**: Git, GitHub, Grafana, Prometheus, Integração de APIs, Automações (N8N, Dify e etc), análise de desempenho e segurança em sistemas web.
 
 ---
