@@ -8,6 +8,7 @@ Meu foco está sempre em entregar soluções robustas, escaláveis e bem documen
 
 ---
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ruby/ruby-original-wordmark.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="auto" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="auto" width="40">
@@ -29,10 +30,10 @@ Meu foco está sempre em entregar soluções robustas, escaláveis e bem documen
 
 ### 💼 Habilidades e Experiências Técnicas
 
-- **Linguagens**: PHP, JavaScript, TypeScript, Python, Ruby, Lua  
-- **Frameworks e Bibliotecas**: Fastify, Nest.js, Vue.js, Prisma, jQuery  
+- **Linguagens**: GoLang, PHP, JavaScript, TypeScript, Python, Ruby, Lua  
+- **Frameworks e Bibliotecas**: ReactJs, Fastify, Nest.js, Vue.js, Prisma, jQuery  
 - **Bancos de Dados**: PostgreSQL, MySQL  
-- **DevOps / Infraestrutura**: Docker, Apache, Proxmox, Amazon Web Services (AWS)  
+- **DevOps / Infraestrutura**: Docker, Apache, Proxmox, Amazon Web Services (AWS), GCP  
 - **Outros**: Git, GitHub, Grafana, Prometheus, Integração de APIs, Automações (N8N, Dify e etc), análise de desempenho e segurança em sistemas web.
 
 ---
